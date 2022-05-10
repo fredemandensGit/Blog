@@ -1,0 +1,8 @@
+Data links
+
+Bike data:
+2011, https://s3.amazonaws.com/capitalbikeshare-data/2011-capitalbikeshare-tripdata.zip
+2012, https://s3.amazonaws.com/capitalbikeshare-data/2012-capitalbikeshare-tripdata.zip
+
+Weather data:
+https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip

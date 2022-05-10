@@ -1,0 +1,12 @@
+baseurl = "https://example.com"
+title = "Capital Bike Share Washington DC"
+author = "David Hamp-Gonsalves"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Capital Bike Share Washington DC""

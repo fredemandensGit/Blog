@@ -1,0 +1,23 @@
+baseurl = "https://fredemandensgit.github.io/socialdata.github.io/"
+#title = "Black & Light"
+author = "Jens Christian Bang Gribsvad, Frederik Hartmann"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Capital Bikeshare: A bike-journey through Washington DC."
+  disableWebFonts = false
+
+
+[[menu.main]]
+    name = "GitHub repository for explainer notebook"
+    url  = "https://github.com/ChristianBangGribsvad/Explainer.git"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
