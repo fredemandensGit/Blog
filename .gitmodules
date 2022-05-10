@@ -1,0 +1,4 @@
+[submodule "BikeBlog/public"]
+	path = BikeBlog/public
+	url = git@github.com:fredemandensGit/socialdata.github.io.git
+	branch = main
